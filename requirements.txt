@@ -1,0 +1,9 @@
+numpy 
+pandas
+sklearn
+nltk
+sklearn_crfsuite
+matplotlib
+seaborn
+requests
+
