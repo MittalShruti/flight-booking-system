@@ -6,4 +6,4 @@ sklearn_crfsuite
 matplotlib
 seaborn
 requests
-
+word2number
